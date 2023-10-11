@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanu-shrees
 - 👀 I’m interested in working on everything.
 - 🌱 I’m currently learning python,video editing.
-- 💞️ I’m looking to collaborate on wed development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/tanu-shrees/ 
 
 <!---
